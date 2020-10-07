@@ -23,10 +23,8 @@ Technologies choisies : Symfony et React.
 	- Création des Repositories liés aux entités selon les queries nécessaires
 	- L'ajout de nouvelles currencies pourra se faire via une commande Symfony dans un premier temps, peut être créer une interface admin si le client
 	veut créer lui même de nouvelles currencies selon son bon vouloir.
-
 	- Création des Services réalisants les services
 	- Validation des données en back avec une entity input
-
 	- Création de la commande symfony qui envoi le mail et vide/supprime le fichier, cette commande serait appellée quotidiennement par un cron
 	
 
